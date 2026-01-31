@@ -1,4 +1,4 @@
-# Wallhaven 批量壁纸下载器
+<img width="772" height="396" alt="image" src="https://github.com/user-attachments/assets/bda4d049-19f9-48e5-b690-d4c4f0ca1eb6" /># Wallhaven 批量壁纸下载器
 
 一个 **简单、高效、稳定** 的命令行工具，基于 [Wallhaven.cc](https://wallhaven.cc) 官方 API，  
 用于 **批量提取并下载高清壁纸**。
@@ -27,3 +27,9 @@
 
 ```bash
 pip install -r requirements.txt
+
+## 🚀 使用示例（Usage Examples）
+
+```bash
+python main.py --pages 30
+
