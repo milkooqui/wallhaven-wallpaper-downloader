@@ -29,9 +29,6 @@
 ```bash
 pip install -r requirements.txt
 
-🚀 使用示例（Usage Examples）
+使用示例（Usage Examples）
 
-```bash
 python main.py --pages 30
-
-
