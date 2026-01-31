@@ -29,6 +29,12 @@
 ```bash
 pip install -r requirements.txt
 
+⚠️ 声明
+
+本项目使用 Wallhaven 官方公开 API。请遵守 Wallhaven 服务条款。
+本项目仅用于学习和个人使用。
+
 使用示例（Usage Examples）
 
 python main.py --pages 30
+
